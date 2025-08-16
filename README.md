@@ -13,7 +13,7 @@ I am passionate about solving real-world problems through smart software solutio
 
 ## Career Interests
 
-AI Engineer | Software Developer | Research Assistant | Tech Instructor
+AI Engineer | Pyhon Developer | Research Assistant | Tech Instructor | Tech Content Creator 
 
 ## Skills
 
