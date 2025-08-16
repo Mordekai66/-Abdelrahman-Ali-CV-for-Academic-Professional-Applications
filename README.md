@@ -1,6 +1,7 @@
 # **Abdelrahman Ali**
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:abdelrahman.ali.dev@gmail.com) | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Mordekai66) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ali-dev-learn/)
+
 📍 Egypt, Assiut | 🇪🇬 Arabic: Native | 🇬🇧 English: B1 (Intermediate)
 
 ---
