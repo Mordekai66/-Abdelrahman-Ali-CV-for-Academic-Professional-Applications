@@ -24,11 +24,11 @@ AI Engineer | Pyhon Developer | Research Assistant | Tech Instructor | Tech Cont
 - **Tools**: (Git, GitHub, ParseHub, Figma, Ngrok)
 - **Soft Skills**: Teaching, Public Speaking, Technical Writing
 
-## Selected Projects
+## Projects
 
 ### Figmatic
 A tool that converts Figma designs into full applications in multiple programming languages (Python, Java, C++).  
-**Duration**: 4 months | [🔗 GitHub](https://github.com/Mordekai66/design2apps)
+**Duration**: 4 months | [GitHub](https://github.com/Mordekai66/design2apps)
 
 ### VoiceInSight
 A pronunciation analysis program that evaluates user speech and gives feedback.  
@@ -37,11 +37,11 @@ A pronunciation analysis program that evaluates user speech and gives feedback.
 
 ### Repo Analyzer
 Desktop utility that analyzes folders or GitHub repos: size, lines, structure, etc.  
-**Duration**: 3 days | [🔗 GitHub](https://github.com/Mordekai66/repo-analyzer)
+**Duration**: 3 days | [GitHub](https://github.com/Mordekai66/repo-analyzer)
 
 ### Heart Disease Prediction (UCI Dataset)
 Uses Logistic Regression, SVM, K-Means, PCA, and Streamlit UI to detect heart disease.  
-**Duration**: 6 days | [🔗 GitHub](https://github.com/Mordekai66/Heart-Disease-UCI)
+**Duration**: 6 days | [GitHub](https://github.com/Mordekai66/Heart-Disease-UCI)
 
 ### Cancer Detection
 Binary classification using Logistic Regression to predict cancer.  
