@@ -21,7 +21,7 @@ AI Engineer | Software Developer | Research Assistant | Tech Instructor
 - **AI & Machine Learning**: scikit-learn, NumPy, Pandas  
 - **Data Visualization**: Matplotlib, Seaborn  
 - **Web Development**: Flask, Streamlit  
-- **Tools**: Git & GitHub, Ngrok  
+- **Tools**: (Git, GitHub, ParseHub, Figma, Ngrok)
 - **Soft Skills**: Teaching, Public Speaking, Technical Writing
 
 ## Selected Projects
